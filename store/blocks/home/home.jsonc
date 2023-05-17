@@ -11,7 +11,8 @@
       "info-card#home",
       "rich-text#question",
       "rich-text#link",
-      "newsletter"
+      "newsletter",
+      "rich-text#custom-curso"
     ]
   },
 
@@ -100,5 +101,15 @@
       "text": "\n**Reach us at**\nwww.vtex.com.br",
       "blockClass": "link"
     }
+  },
+  "rich-text#custom-curso": {
+    "props": {
+      "text": "**Here Begins the Custom Content of VTEX course!**",
+      "textPosition": "CENTER"
+    }
   }
 }
+
+
+
+
