@@ -9,6 +9,7 @@
         "image#brand6"
     ],
     "props": {
+        "bockClass": "custom_css_slider",
         "autoplay": {
             "timeout": 7000,
             "stopOnHover": true
