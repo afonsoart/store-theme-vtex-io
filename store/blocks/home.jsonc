@@ -5,7 +5,8 @@
       "rich-text",
        "info-card#clearance", 
        "info-card#vintage",
-       "flex-layout.row#custom"
+       "flex-layout.row#custom",
+       "slider-layout#home"
       ]
   },
   "rich-text": {
