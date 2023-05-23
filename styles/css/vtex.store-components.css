@@ -46,3 +46,7 @@
     background-color: white;
     border: transparent;
   }
+
+  .imageElement--cover {
+    object-fit: cover;
+  }
