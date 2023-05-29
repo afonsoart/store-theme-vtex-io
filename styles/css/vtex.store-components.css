@@ -50,3 +50,8 @@
   .imageElement--cover {
     object-fit: cover;
   }
+
+  .imageElement--img_maxwidth {
+    max-width: 1260px;
+    margin: 0 auto;
+  }
